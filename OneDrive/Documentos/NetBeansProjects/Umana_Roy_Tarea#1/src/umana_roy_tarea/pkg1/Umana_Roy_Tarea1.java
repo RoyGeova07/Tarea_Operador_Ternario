@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Umana_Roy_Tarea1 {
 
     //Trabajo de: Roy Umaña 22411312
-    //Definificion del Operador ternario: es una funcion que permite tomar decisiones basadas en una condicion
+    //Definicion del Operador ternario: es una funcion que permite tomar decisiones basadas en una condicion
     // booleana de manera concisa en una sola linea de codigo.
     // se puede expresar como una condicion de expresar una estructura condicional if-else.
     // su sintaxis es: condicion ? valor_si_verdadero : valor_si_falso.
